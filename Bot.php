@@ -1,7 +1,7 @@
 <?php
 $TOKEN = '913263427:AAEF1BV4fTAxci35TboRtSm9iyUz9DCQ9-k';
 $BOT_USERNAME = 'CYSShop_Bot';
-$webhook = 'https://cysshop.000webhostapp.com/cysshop.php';
+$webhook = 'https://github.com/CYSShop/CYSShopBot/blob/master/Bot.php';
 
 $url = 'https://api.telegram.org/bot'.$TOKEN.'/';
 
