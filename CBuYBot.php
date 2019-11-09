@@ -4,7 +4,7 @@ ini_set('error_log', 'php_errors.log');
 
 
 $TOKEN = '838275789:AAHY3XDl8Y_hhT5m6FA_dDAvVZERFqFFdA0';
-$BOT_USERNAME = '@CBuYBot';
+$BOT_USERNAME = 'CBuYBot';
 $webhook = 'https://github.com/CYSShop/CYSShopBot/blob/master/CBuYBot.php'
 $url = 'https://api.telegram.org/bot'.$TOKEN.'/';
 echo get($url.'setWebhook?url='.$webhook);
